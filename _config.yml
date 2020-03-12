@@ -352,3 +352,5 @@ compress_html:
 
 sass:
   style:               compressed
+  
+remote_theme : mmistakes/minimal-mistakes
